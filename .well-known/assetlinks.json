@@ -1,9 +1,11 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "appinventor.ai_daw_jas.GdzieChlac_newUI_copy03",
-        "sha256_cert_fingerprints": ["D1:08:26:CF:D0:74:74:44:75:75:E2:CE:D7:1E:7A:C1:97:CD:1E:E6:EE:1F:2B:74:FC:E9:F9:46:D0:F1:32:44"]
-      }
-    }]
-
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "appinventor.ai_daw_jas.GdzieChlac_newUI_copy03",
+      "sha256_cert_fingerprints":
+        ["57:95:21:9B:28:54:13:B5:97:2D:2F:63:D4:FB:34:67:6B:16:23:A1:16:90:C7:6D:FD:7A:A8:DD:51:17:D2:33"]
+    }
+  }
+]

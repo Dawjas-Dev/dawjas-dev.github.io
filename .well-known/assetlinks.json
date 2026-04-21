@@ -7,5 +7,14 @@
       "sha256_cert_fingerprints":
         ["57:95:21:9B:28:54:13:B5:97:2D:2F:63:D4:FB:34:67:6B:16:23:A1:16:90:C7:6D:FD:7A:A8:DD:51:17:D2:33"]
     }
+  },
+   {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.dawjas_dev.twa",
+      "sha256_cert_fingerprints":
+        ["69:7C:C4:D0:01:9C:A0:71:0F:84:44:96:F7:1B:F4:C4:B9:37:24:F9:74:F0:AD:56:CE:1A:AF:6F:3A:70:7F:C2"]
+    }
   }
 ]
